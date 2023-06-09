@@ -1,0 +1,26 @@
+.main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(118, 180, 233);
+}
+.row{
+    height: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#search{
+    font-size: 2.5vh;
+    padding: 3%;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+}
